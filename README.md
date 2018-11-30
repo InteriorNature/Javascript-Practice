@@ -6,3 +6,4 @@
 
 3. Most Frequent Vowel - Created a generic RegExp builder for cases other than vowels. Enables user-specified character(s) in a) global, b) case-insensitive, and c) find ANY mode.
 
+4. Array Flattening - Used a combination of reduce and concat - I nested them, but a recursion would have been ideal.
